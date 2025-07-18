@@ -1,4 +1,4 @@
- #11858_jspm基于J2EE的智慧篮球馆预约 演示录像2023_73hmb.mp4
+ #11858_jspm基于J2EE的智慧篮球馆预约
     
  
  # 项目资料包含：
@@ -9,7 +9,7 @@
  # 项目资料获取方式
  * 需要资料或者有任何问题的加QQ：2684634017
 
- * 项目源代码下载地址：http://blog.codercode.cn/#/home/goodDetail?goodId=11858
+ * 项目源代码下载地址：https://bysj.bsitem.com/#/home/goodDetail?goodId=11858
  
  
  * 项目演示视频；https://graduation-images.oss-cn-beijing.aliyuncs.com/videos/100%E5%A5%97-3-jspm%E5%BD%95%E5%83%8F/11858_jspm%E5%9F%BA%E4%BA%8EJ2EE%E7%9A%84%E6%99%BA%E6%85%A7%E7%AF%AE%E7%90%83%E9%A6%86%E9%A2%84%E7%BA%A6%20%E6%BC%94%E7%A4%BA%E5%BD%95%E5%83%8F2023_73hmb.mp4
